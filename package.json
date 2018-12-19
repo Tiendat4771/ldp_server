@@ -26,22 +26,7 @@
     "material-ui": "^0.20.2",
     "mongoose": "^5.2.8",
     "multer": "^1.4.1",
-    "multer-storage-cloudinary": "^2.2.1",
-    "prop-types": "^15.6.2",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-image-magnify": "^2.7.4",
-    "react-image-zoom": "^0.7.0",
-    "react-redux": "^5.0.7",
-    "react-router": "^4.3.1",
-    "react-router-dom": "^4.3.1",
-    "react-router-redux": "^5.0.0-alpha.9",
-    "react-slick": "^0.23.2",
-    "redux": "^4.0.1",
-    "redux-devtools-extension": "^2.13.5",
-    "redux-logger": "^3.0.6",
-    "redux-thunk": "^2.3.0",
-    "slick-carousel": "^1.8.1"
+    "multer-storage-cloudinary": "^2.2.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
